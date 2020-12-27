@@ -1,0 +1,1 @@
+This project was developed using Vue.js, and it models the real world activity of sale and purchase of stocks of various companies as well as production of variations in the prices of these shares on a regular basis.
